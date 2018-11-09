@@ -37,7 +37,14 @@ Examples of unacceptable behavior by participants include:
 
 Community members asked to stop any inappropriate behavior are expected to comply immediately.
 
-[REVERSISMS]
+The Python community prioritizes marginalized people's safety over privileged people's comfort. The Python Code of Conduct team will not act on complaints regarding:
+
+ * "Reverse"-isms, including "reverse racism," "reverse sexism," and "cisphobia"
+ * Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you."
+ * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
+ * Communicating boundaries or criticizing oppressive behavior in a "tone" you don't find congenial
+
+The examples listed above are not against the Code of Conduct.
 
 [WEAPONS POLICY]
 
