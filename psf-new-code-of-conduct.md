@@ -25,6 +25,7 @@ Examples of unacceptable behavior by participants include:
  * Logging or taking screenshots of online activity for harassment purposes
  * Publishing others' private information, such as a physical or electronic address, without explicit permission
  * Violent threats or language directed against another person
+ * Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
  * Sexual language and imagery in online communities or in any conference venue, including talks
  * Insults or put downs
  * Sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
