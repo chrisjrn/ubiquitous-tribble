@@ -4,7 +4,7 @@ The Python community is made up of members from around the globe with a diverse 
 
 ## Our Standards
 
-The Python community is dedicated to providing a positive experience for everyone, regardless of [PROTECTED CLASSES]
+The Python community is dedicated to providing a positive experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 
 Examples of behavior that contributes to creating a positive environment include:
 
