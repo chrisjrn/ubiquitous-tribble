@@ -22,14 +22,17 @@ Examples of unacceptable behavior by participants include:
 
  * Harassment of conference participants in any form
  * Deliberate intimidation, stalking, or following
+ * Logging or taking screenshots of online activity for harassment purposes
  * Violent threats or language directed against another person
  * Sexual language and imagery in online communities or in any conference venue, including talks
  * Insults or put downs
  * Sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
  * Excessive swearing
  * Unwelcome sexual attention or advances
- * Unwelcome physical contact
+ * Unwelcome physical contact, including simulated physical contact (eg, textual descriptions like "hug" or "backrub") without consent or after a request to stop
+ * Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
  * Sustained disruption of online community discussions, in-person presentations, or other in-person events
+ * Continued one-on-one communication after requests to cease
  * Other conduct that is inappropriate for a professional audience including people of many different backgrounds
 
 Community members asked to stop any inappropriate behavior are expected to comply immediately.
@@ -123,6 +126,6 @@ This Code of Conduct is licensed under the [Creative Commons Attribution 3.0 Unp
 
 This Code of Conduct was forked from the example policy from [ORIGINAL CODE OF CONDUCT AND ITS LICENSE]
 
-Additional language was added by [ATTRIBUTION OF PEOPLE EDITING THIS DOCUMENT]. Language was incorporated from the following Codes of Conduct:
+Additional language was added by Sage Sharp of [Otter Tech](https://otter.technology/code-of-conduct-training/). Language was incorporated from the following Codes of Conduct:
 
-[LIST OF CODES OF CONDUCT AND THEIR LICENSE TERMS]
+ * The [LGBTQ in Tech Slack Code of Conduct](https://lgbtq.technology/coc.html), which is licensed under a [Creative Commons Zero License](https://creativecommons.org/publicdomain/zero/1.0/).
