@@ -23,6 +23,7 @@ Examples of unacceptable behavior by participants include:
  * Harassment of conference participants in any form
  * Deliberate intimidation, stalking, or following
  * Logging or taking screenshots of online activity for harassment purposes
+ * Publishing others' private information, such as a physical or electronic address, without explicit permission
  * Violent threats or language directed against another person
  * Sexual language and imagery in online communities or in any conference venue, including talks
  * Insults or put downs
