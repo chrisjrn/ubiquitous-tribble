@@ -20,7 +20,17 @@ Examples of behavior that contributes to creating a positive environment include
 
 Examples of unacceptable behavior by participants include:
 
-[INAPPROPRIATE BEHAVIOR]
+ * Harassment of conference participants in any form
+ * Deliberate intimidation, stalking, or following
+ * Violent threats or language directed against another person
+ * Sexual language and imagery in any conference venue, including talks
+ * Insults or put downs
+ * Sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
+ * Excessive swearing
+ * Unwelcome sexual attention or advances
+ * Unwelcome physical contact
+ * Sustained disruption of talks or other events
+ * Other conduct that is inappropriate for a professional audience including people of many different backgrounds
 
 Community members asked to stop any inappropriate behavior are expected to comply immediately.
 
