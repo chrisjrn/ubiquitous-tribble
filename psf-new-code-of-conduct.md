@@ -6,6 +6,8 @@ The Python community is made up of members from around the globe with a diverse 
 
 The Python community is dedicated to providing a positive experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 
+### Community Norms
+
 Examples of behavior that contributes to creating a positive environment include:
 
  * **Being open.** Members of the community are open to collaboration, whether it's on PEPs, patches, problems, or otherwise.
@@ -17,6 +19,8 @@ Examples of behavior that contributes to creating a positive environment include
  * **Being respectful.** We're respectful of others, their positions, their skills, their commitments, and their efforts.
  * **Gracefully accepting constructive criticism.** When we disagree, we are courteous in raising our issues.
  * **Using welcoming and inclusive language.** We're accepting of all who wish to take part in our activities, fostering an environment where anyone can participate and everyone can make a difference.
+
+### Inappropriate Behavior
 
 Examples of unacceptable behavior by participants include:
 
@@ -40,6 +44,8 @@ Examples of unacceptable behavior by participants include:
 
 Community members asked to stop any inappropriate behavior are expected to comply immediately.
 
+### Reversisms
+
 The Python community prioritizes marginalized people's safety over privileged people's comfort. The Python Code of Conduct team will not act on complaints regarding:
 
  * "Reverse"-isms, including "reverse racism," "reverse sexism," and "cisphobia"
@@ -48,6 +54,8 @@ The Python community prioritizes marginalized people's safety over privileged pe
  * Communicating boundaries or criticizing oppressive behavior in a "tone" you don't find congenial
 
 The examples listed above are not against the Code of Conduct.
+
+### Weapons Policy
 
 No weapons are allowed at Python community events covered by this Code of Conduct. Weapons include but are not limited to explosives (including fireworks), guns, and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon.
 
