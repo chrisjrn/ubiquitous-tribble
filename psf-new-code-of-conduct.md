@@ -144,9 +144,20 @@ Python event organizers will be happy to help community event participants conta
 
 This Code of Conduct is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
 
-This Code of Conduct was forked from the example policy from [ORIGINAL CODE OF CONDUCT AND ITS LICENSE]
+[![Creative Commons License](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)
 
-Additional language was added by Sage Sharp of [Otter Tech](https://otter.technology/code-of-conduct-training/). Language was incorporated from the following Codes of Conduct:
+## Attributions
 
- *  [Affect Conf Code of Conduct](https://affectconf.com/coc/) (licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)).
- * The [LGBTQ in Tech Slack Code of Conduct](https://lgbtq.technology/coc.html), which is licensed under a [Creative Commons Zero License](https://creativecommons.org/publicdomain/zero/1.0/).
+This Code of Conduct was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), which is under a [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/).
+
+Additional new language and modifications were created by Sage Sharp of [Otter Tech](https://otter.technology/code-of-conduct-training/).
+
+Language was incorporated from the following Codes of Conduct:
+
+ *  [Affect Conf Code of Conduct](https://affectconf.com/coc/), licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+ * [Citizen Code of Conduct](http://citizencodeofconduct.org/), licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+ * [Contributor Covenant version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct), licensed [Creative Commons Attribution 4.0 License](https://github.com/ContributorCovenant/contributor_covenant/blob/master/LICENSE.md).
+ * [Django Project Code of Conduct](https://www.djangoproject.com/conduct/), licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+ * [LGBTQ in Tech Slack Code of Conduct](https://lgbtq.technology/coc.html), licensed under a [Creative Commons Zero License](https://creativecommons.org/publicdomain/zero/1.0/).
+ * [PyCon 2018 Code of Conduct](https://us.pycon.org/2018/about/code-of-conduct/), licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+ * [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html)
