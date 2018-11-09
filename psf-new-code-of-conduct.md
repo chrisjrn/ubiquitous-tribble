@@ -49,7 +49,7 @@ The Python community prioritizes marginalized people's safety over privileged pe
 
 The examples listed above are not against the Code of Conduct.
 
-[WEAPONS POLICY]
+No weapons are allowed at Python community events covered by this Code of Conduct. Weapons include but are not limited to explosives (including fireworks), guns, and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon.
 
 If a participant engages in behavior that violates this code of conduct, the Python community Code of Conduct team may take any action they deem appropriate, including warning the offender or expulsion from the community and community events with no refund of event tickets.
 
@@ -132,10 +132,11 @@ Python event organizers will be happy to help community event participants conta
 
 ## License
 
-This Code of Conduct is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
+This Code of Conduct is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
 
 This Code of Conduct was forked from the example policy from [ORIGINAL CODE OF CONDUCT AND ITS LICENSE]
 
 Additional language was added by Sage Sharp of [Otter Tech](https://otter.technology/code-of-conduct-training/). Language was incorporated from the following Codes of Conduct:
 
+ *  [Affect Conf Code of Conduct](https://affectconf.com/coc/) (licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)).
  * The [LGBTQ in Tech Slack Code of Conduct](https://lgbtq.technology/coc.html), which is licensed under a [Creative Commons Zero License](https://creativecommons.org/publicdomain/zero/1.0/).
