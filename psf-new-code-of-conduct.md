@@ -4,7 +4,7 @@ The Python community is made up of members from around the globe with a diverse 
 
 ## Our Standards
 
-[COMMUNITY] is dedicated to providing a positive experience for everyone, regardless of [PROTECTED CLASSES]
+The Python community is dedicated to providing a positive experience for everyone, regardless of [PROTECTED CLASSES]
 
 Examples of behavior that contributes to creating a positive environment include:
 
@@ -20,7 +20,7 @@ Community members asked to stop any inappropriate behavior are expected to compl
 
 [WEAPONS POLICY]
 
-If a participant engages in behavior that violates this code of conduct, the [COMMUNITY] organizers may take any action they deem appropriate, including warning the offender or expulsion from the community and community events with no refund of event tickets.
+If a participant engages in behavior that violates this code of conduct, the Python community Code of Conduct team may take any action they deem appropriate, including warning the offender or expulsion from the community and community events with no refund of event tickets.
 
 Thank you for helping make this a welcoming, friendly community for everyone.
 
@@ -30,11 +30,11 @@ Thank you for helping make this a welcoming, friendly community for everyone.
 
 ## Contact Information
 
-If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the [COMMUNITY] code of conduct team immediately.
+If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the Python community Code of Conduct team immediately.
 
 [CONTACT INFORMATION]
 
-[COMMUNITY] organizers will be happy to help community event participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of the event. We value your attendance.
+Python event organizers will be happy to help community event participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of the event. We value your attendance.
 
 ## Procedure for Handling Incidents
 
