@@ -103,7 +103,7 @@ The Code of Conduct applies to interactions with official event accounts on soci
   * comments made on event video hosting services
   * comments made on the official event hashtag or panel hashtags
 
-Event organizers will enforce this code throughout the event. Event organizers may inform the Python Code of Conduct team of incident reports and resolutions.
+Event organizers will enforce this code throughout the event. Each event is required to provide a Code of Conduct committee that receives, evaluates, and acts on incident reports. Each event is required to provide contact information for the committee to attendees. The event Code of Conduct committee may (but is not required to) ask for advice from the Python Software Foundation Code of Conduct work group. The Python Software Foundation Code of Conduct work group can be reached by emailing <conduct-wg@python.org>.
 
 [FIXME: Policy question: should PSF event organizers be required to inform the Python Code of Conduct of all reports and their resolutions? Or only ones that are still open or where a person has a behavioral modification plan that applies to multiple Python spaces?]
 
@@ -126,11 +126,19 @@ This Code of Conduct applies to the following people in official Python Software
  * contributors
  * all community members
 
-## Contact Information
+Each online space listed above is required to provide the following information to the Python Software Foundation Code of Conduct work group:
 
-If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the Python community Code of Conduct team immediately.
+ * contact information for any administrators/moderators
 
-[CONTACT INFORMATION]
+Each online space listed above is encouraged to provide the following information to community members:
+
+ * a welcome message with a link to this Code of Conduct and the contact information for making an incident report <conduct-wg@python.org>
+
+The Python Software Foundation Code of Conduct work group will receive and evaluate incident reports from the online communities listed above. The Python Software Foundation Code of Conduct work group will work with online community administrators/moderators to suggest actions to take in response to a report. In cases where the administrators/moderators disagree on the suggested resolution for a report, the Python Software Foundation Code of Conduct work group may choose to notify the Python Software Foundation board.
+
+#### Contact Information
+
+If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the Python Software Foundation Code of Conduct work group immediately. They can be reached by emailing <conduct-wg@python.org>
 
 Python event organizers will be happy to help community event participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of the event. We value your attendance.
 
