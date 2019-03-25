@@ -68,7 +68,7 @@ What follows are examples of possible behavioral modification plans for incident
  * Requiring that the reported person not use specific language
  * Requiring that the reported person not join in on specific types of discussions
  * Requiring that the reported person not send private messages to a community member
- * Requiring that the reported person not join specific chat channels
+ * Requiring that the reported person not join specific communication channels
  * Removing the reported person from administrator or moderator rights to community infrastructure
  * Removing a volunteer from their duties and responsibilities
  * Removing a person from leadership of relevant organizations
