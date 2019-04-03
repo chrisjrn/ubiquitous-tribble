@@ -28,7 +28,7 @@ Examples of conflicts of interest include:
 
  * The reporter or reported person is your manager
  * You have a romantic or platonic relationship with either the reporter or the reported person. It's fine to participate if they are an acquaintance.
- * The reporter or reported person is a metamour. This is a term used in the poly community; the short definition is [here](https://www.urbandictionary.com/define.php?term=Metamour), and a longer description is [here](https://solopoly.net/2012/09/29/whats-a-metamour-on-my-terms/).
+ * The reporter or reported person is your metamour. (This is a term used in the poly community; the short definition is [here](https://www.urbandictionary.com/define.php?term=Metamour), and a longer description is [here](https://solopoly.net/2012/09/29/whats-a-metamour-on-my-terms/)).
  * The reporter or reported person is your family member
  * The reporter or reported person is your direct client
  * The reporter or reported person is someone you work closely with. This could be someone on your team or someone who works on the same project as you.
@@ -42,8 +42,8 @@ Anyone who has a conflict of interest will remove themselves from the discussion
 
 ## Jurisdiction
 
- * *Is this Code of Conduct violation?* Is this behavior on our list of inappropriate behavior? Does it "toe the line" of inappropriate behavior? Does it violate our community norms?
- * *Did this occur in a space that is within our Code of Conduct's scope?* If the incident occurred outside the community, but a community member's safety in the community may be negatively impacted if no action is taken, the incident may be in scope.
+ * *Is this a Code of Conduct violation?* Is this behavior on our list of inappropriate behavior? Is it borderline inappropriate behavior? Does it violate our community norms?
+ * *Did this occur in a space that is within our Code of Conduct's scope?* If the incident occurred outside the community, but a community member's mental health or physical safety may be negatively impacted if no action is taken, the incident may be in scope. Private conversations in community spaces are also in scope.
 
 ## Impact
 
