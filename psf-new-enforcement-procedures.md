@@ -63,7 +63,7 @@ Reports which involve higher risk or higher impact may face more severe conseque
 
 The work group will determine a concrete behavioral modification plan that ensures the inappropriate behavior is not repeated.  The work group will also discuss what actions may need to be taken if the reported person does not agree to the behavioral modification plan.
 
-What follows are examples of possible behavioral modification plans for incidents that occur in online spaces under the scope of this Code of Conduct. This behavioral modification list is is not inclusive, and the Python Software Foundation Code of Conduct work group reserves the right to take any action it deems necessary.
+What follows are examples of possible behavioral modification plans for incidents that occur in online spaces under the scope of this Code of Conduct. This behavioral modification list is not inclusive, and the Python Software Foundation Code of Conduct work group reserves the right to take any action it deems necessary.
 
  * Requiring that the reported person not use specific language
  * Requiring that the reported person not join in on specific types of discussions
@@ -76,7 +76,7 @@ What follows are examples of possible behavioral modification plans for incident
 
 # Propose consequences
 
-What follows are examples of possible consequences to an incident report. This consequences list is is not inclusive, and the Python Software Foundation Code of Conduct work group reserves the right to take any action it deems necessary.
+What follows are examples of possible consequences to an incident report. This consequences list is not inclusive, and the Python Software Foundation Code of Conduct work group reserves the right to take any action it deems necessary.
 
 Possible private responses to an incident include:
 
