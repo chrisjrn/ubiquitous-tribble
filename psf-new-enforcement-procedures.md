@@ -1,5 +1,3 @@
-***UNAPPROVED DRAFT***
-
 This document summarizes the procedures the Python Software Foundation Code of Conduct work group uses to enforce the Code of Conduct.
 
 # Summary of processes
