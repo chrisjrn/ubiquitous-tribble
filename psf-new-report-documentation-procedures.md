@@ -1,5 +1,3 @@
-***UNAPPROVED DRAFT***
-
 This document summarizes the procedures the Python Software Foundation Code of Conduct work group uses to discuss and document Code of Conduct reports.
 
 # Documentation and Privacy Policies
