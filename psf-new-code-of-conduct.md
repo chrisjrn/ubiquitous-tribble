@@ -105,15 +105,13 @@ The Code of Conduct applies to interactions with official event accounts on soci
 
 Event organizers will enforce this code throughout the event. Each event is required to provide a Code of Conduct committee that receives, evaluates, and acts on incident reports. Each event is required to provide contact information for the committee to attendees. The event Code of Conduct committee may (but is not required to) ask for advice from the Python Software Foundation Code of Conduct work group. The Python Software Foundation Code of Conduct work group can be reached by emailing <conduct-wg@python.org>.
 
-[FIXME: Policy question: should PSF event organizers be required to inform the Python Code of Conduct of all reports and their resolutions? Or only ones that are still open or where a person has a behavioral modification plan that applies to multiple Python spaces?]
-
 ### PSF Online Spaces
 
 This Code of Conduct applies to the following people online spaces:
 
  * The [python-ideas](https://mail.python.org/mailman/listinfo/python-ideas), [core-mentorship](https://mail.python.org/mm3/mailman3/lists/core-mentorship.python.org/), [python-dev](https://mail.python.org/mailman/listinfo/python-dev), [docs](https://mail.python.org/mailman/listinfo/docs) mailing lists
  * All other [mailing lists hosted on python.org](https://mail.python.org/mailman/listinfo)
- * Python Software Foundation Zulip chat server [FIXME: Do you want to link to that or keep the URL private?]
+ * Python Software Foundation Zulip chat server
  * Python Software Foundation hosted Discourse server [discuss.python.org](https://discuss.python.org/)
  * Code repositories, issue trackers, and pull requests made against the [Python GitHub organization](https://github.com/python/)
  * The python.org mercurial server [hg.python.org](https://hg.python.org/)
@@ -139,8 +137,6 @@ The Python Software Foundation Code of Conduct work group will receive and evalu
 #### Contact Information
 
 If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the Python Software Foundation Code of Conduct work group immediately. They can be reached by emailing <conduct-wg@python.org>
-
-Python event organizers will be happy to help community event participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of the event. We value your attendance.
 
 ## Procedure for Handling Incidents
 
