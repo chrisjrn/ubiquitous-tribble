@@ -4,7 +4,7 @@ The Python community is made up of members from around the globe with a diverse 
 
 ## Our Standards
 
-The Python community is dedicated to providing a positive experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
+The Python community is dedicated to providing a positive experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status. 
 
 ### Community Norms
 
@@ -44,14 +44,15 @@ Examples of unacceptable behavior by participants include:
 
 Community members asked to stop any inappropriate behavior are expected to comply immediately.
 
-### Reversisms
+### Boundaries
 
-The Python community prioritizes marginalized people's safety over privileged people's comfort. The Python Code of Conduct team will not act on complaints regarding:
+The Python community prioritizes marginalized people's safety over privileged people's comfort. This includes the right to discuss and criticize oppressive behaviors or assumptions. It also includes the right to not participate, or to request to not be included in discussions.
 
- * "Reverse"-isms, including "reverse racism," "reverse sexism," and "cisphobia"
- * Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you."
- * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
- * Communicating boundaries or criticizing oppressive behavior in a "tone" you don't find congenial
+The Python Code of Conduct team will not act on complaints regarding:
+
+* Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you."
+* Criticism of oppressive behavior or assumptions, including those that infringe upon a person's identity with respect to (age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status)
+* Criticism of the tone with which a communication of boundaries, or a criticism of behavior is delivered
 
 The examples listed above are not against the Code of Conduct.
 
