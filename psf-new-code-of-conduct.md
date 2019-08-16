@@ -2,13 +2,10 @@
 
 The Python community is made up of members from around the globe with a diverse set of skills, personalities, and experiences. It is through these differences that our community experiences great successes and continued growth. When you're working with members of the community, this Code of Conduct will help steer your interactions and keep Python a positive, successful, and growing community.
 
-## Our Standards
 
-The Python community is dedicated to providing a positive experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
+## Our Values
 
-### Community Norms
-
-Examples of behavior that contributes to creating a positive environment include:
+Members of the Python community are **open, considerate, and respectful**. Behaviours that reinforce these values contribute to a positive experience, and include:
 
  * **Being open.** Members of the community are open to collaboration, whether it's on PEPs, patches, problems, or otherwise.
  * **Focusing on what is best for the community.** We're respectful of the processes set forth in the community, and we work within them.
@@ -20,20 +17,27 @@ Examples of behavior that contributes to creating a positive environment include
  * **Gracefully accepting constructive criticism.** When we disagree, we are courteous in raising our issues.
  * **Using welcoming and inclusive language.** We're accepting of all who wish to take part in our activities, fostering an environment where anyone can participate and everyone can make a difference.
 
+
+
+## Our Standards
+
+Every member of our community has the right to have their identity respected. The Python community is dedicated to providing a positive experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
+
+
 ### Inappropriate Behavior
 
 Examples of unacceptable behavior by participants include:
 
  * Harassment of conference participants in any form
  * Deliberate intimidation, stalking, or following
+ * Behaviour that incites harassment of others, including in online spaces
  * Logging or taking screenshots of online activity for harassment purposes
  * Publishing others' private information, such as a physical or electronic address, without explicit permission
  * Violent threats or language directed against another person
  * Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
  * Creating additional online accounts in order to harass another person or circumvent a ban
  * Sexual language and imagery in online communities or in any conference venue, including talks
- * Insults or put downs
- * Sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
+ * Insults, put downs, or jokes based upon stereotypes, or that hold others up for ridicule
  * Excessive swearing
  * Unwelcome sexual attention or advances
  * Unwelcome physical contact, including simulated physical contact (eg, textual descriptions like "hug" or "backrub") without consent or after a request to stop
@@ -44,16 +48,17 @@ Examples of unacceptable behavior by participants include:
 
 Community members asked to stop any inappropriate behavior are expected to comply immediately.
 
-### Reversisms
+### Communicating About Assumptions and Boundaries
 
-The Python community prioritizes marginalized people's safety over privileged people's comfort. The Python Code of Conduct team will not act on complaints regarding:
+The Python Community welcomes people who have traditionally been marginalized within our community: we allow them the space to discuss behaviors, stereotypes, and assumptions that make them feel unwelcome. We also believe that helping others understand how various communications are received can be constructive.
 
- * "Reverse"-isms, including "reverse racism," "reverse sexism," and "cisphobia"
- * Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you."
- * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
- * Communicating boundaries or criticizing oppressive behavior in a "tone" you don't find congenial
+The following behaviours are not against the Code of Conduct, so long as they are done in an appropriate manner:
 
-The examples listed above are not against the Code of Conduct.
+* Communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you”
+* Withdrawal from an interaction, or refusal to interact with another person
+* Criticism of the tone or fashion in which a person enforces their personal boundaries
+* Expressing to another person how a particular interaction was perceived
+* Criticism of behavior, stereotypes, or assumptions that infringe upon a person or group’s identity
 
 ### Weapons Policy
 
