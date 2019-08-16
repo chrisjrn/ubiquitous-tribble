@@ -3,7 +3,7 @@
 The Python community is made up of members from around the globe with a diverse set of skills, personalities, and experiences. It is through these differences that our community experiences great successes and continued growth. When you're working with members of the community, this Code of Conduct will help steer your interactions and keep Python a positive, successful, and growing community.
 
 
-## Our Values
+## Our Community
 
 Members of the Python community are **open, considerate, and respectful**. Behaviours that reinforce these values contribute to a positive experience, and include:
 
@@ -52,11 +52,10 @@ Community members asked to stop any inappropriate behavior are expected to compl
 
 The Python Community welcomes people who have traditionally been marginalized within our community: we allow them the space to discuss behaviors, stereotypes, and assumptions that make them feel unwelcome. We also believe that helping others understand how various communications are received can be constructive.
 
-The following behaviours are not against the Code of Conduct, so long as they are done in an appropriate manner:
+The following behaviours are not against the Code of Conduct:
 
-* Communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you”
+* Communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you”, even in a tone or fashion you find collegial
 * Withdrawal from an interaction, or refusal to interact with another person
-* Criticism of the tone or fashion in which a person enforces their personal boundaries
 * Expressing to another person how a particular interaction was perceived
 * Criticism of behavior, stereotypes, or assumptions that infringe upon a person or group’s identity
 
