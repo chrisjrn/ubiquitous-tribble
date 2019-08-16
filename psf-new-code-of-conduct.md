@@ -54,7 +54,7 @@ The Python Community welcomes people who have traditionally been marginalized wi
 
 The following behaviours are not against the Code of Conduct:
 
-* Communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you”, even in a tone or fashion you find collegial
+* Communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you”, even in a tone or fashion you do not find collegial
 * Withdrawal from an interaction, or refusal to interact with another person
 * Expressing to another person how a particular interaction was perceived
 * Criticism of behavior, stereotypes, or assumptions that infringe upon a person or group’s identity
