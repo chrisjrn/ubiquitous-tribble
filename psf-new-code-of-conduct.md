@@ -5,7 +5,7 @@ The Python community is made up of members from around the globe with a diverse 
 
 ## Our Community
 
-Members of the Python community are **open, considerate, and respectful**. Behaviours that reinforce these values contribute to a positive experience, and include:
+Members of the Python community are **open, considerate, and respectful**. Behaviours that reinforce these values contribute to a positive environment, and include:
 
  * **Being open.** Members of the community are open to collaboration, whether it's on PEPs, patches, problems, or otherwise.
  * **Focusing on what is best for the community.** We're respectful of the processes set forth in the community, and we work within them.
