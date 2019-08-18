@@ -37,7 +37,7 @@ Examples of unacceptable behavior by participants include:
  * Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
  * Creating additional online accounts in order to harass another person or circumvent a ban
  * Sexual language and imagery in online communities or in any conference venue, including talks
- * Insults, put downs, or jokes based upon stereotypes, or that hold others up for ridicule
+ * Insults, put downs, or jokes that are based upon stereotypes, that are exclusionary, or that hold others up for ridicule
  * Excessive swearing
  * Unwelcome sexual attention or advances
  * Unwelcome physical contact, including simulated physical contact (eg, textual descriptions like "hug" or "backrub") without consent or after a request to stop
