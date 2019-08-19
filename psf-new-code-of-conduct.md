@@ -72,7 +72,7 @@ Thank you for helping make this a welcoming, friendly community for everyone.
 
 ### PSF Events
 
-This Code of Conduct applies to the following people at events hosted by the Python Software Foundation, and events hosted by projects under the PSF's fiscal sponsorship:
+This Code of Conduct applies to the following people at events hosted by the Python Software Foundation, and [events hosted by projects under the PSF's fiscal sponsorship](https://www.python.org/psf/fiscal-sponsorees/):
 
  * staff
  * Python Software Foundation board members
