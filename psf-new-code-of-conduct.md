@@ -28,13 +28,12 @@ Every member of our community has the right to have their identity respected. Th
 
 Examples of unacceptable behavior by participants include:
 
- * Harassment of conference participants in any form
+ * Harassment of any participants in any form
  * Deliberate intimidation, stalking, or following
- * Behaviour that incites harassment of others, including in online spaces
  * Logging or taking screenshots of online activity for harassment purposes
  * Publishing others' private information, such as a physical or electronic address, without explicit permission
  * Violent threats or language directed against another person
- * Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
+ * Incitement of violence or harassment towards any individual, including encouraging a person to commit suicide or to engage in self-harm
  * Creating additional online accounts in order to harass another person or circumvent a ban
  * Sexual language and imagery in online communities or in any conference venue, including talks
  * Insults, put downs, or jokes that are based upon stereotypes, that are exclusionary, or that hold others up for ridicule
@@ -54,9 +53,9 @@ The Python Community welcomes people who have traditionally been marginalized wi
 
 The following behaviours are not against the Code of Conduct:
 
-* Communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you”, even in a tone or fashion you do not find collegial
+* Communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you”, even in a tone or fashion you do not find congenial
 * Withdrawal from an interaction, or refusal to interact with another person
-* Expressing to another person how a particular interaction was perceived
+* Expressing to another person how a particular interaction or behavior was perceived
 * Criticism of behavior, stereotypes, or assumptions that infringe upon a person or group’s identity
 
 ### Weapons Policy
