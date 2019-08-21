@@ -47,16 +47,6 @@ Examples of unacceptable behavior by participants include:
 
 Community members asked to stop any inappropriate behavior are expected to comply immediately.
 
-### Communicating About Assumptions and Boundaries
-
-The Python Community welcomes people who have traditionally been marginalized within our community: we allow them the space to discuss behaviors, stereotypes, and assumptions that make them feel unwelcome. We also believe that helping others understand how various communications are received can be constructive.
-
-The following behaviours are not against the Code of Conduct:
-
-* Communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you”, even in a tone or fashion you do not find congenial
-* Withdrawal from an interaction, or refusal to interact with another person
-* Expressing to another person how a particular interaction or behavior was perceived
-* Criticism of behavior, stereotypes, or assumptions that infringe upon a person or group’s identity
 
 ### Weapons Policy
 
